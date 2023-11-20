@@ -1,2 +1,1 @@
-# To-Do-List
-To Do List project from youtube
+This is a youtube follow along project to get myself familiar with the html, css and javscript required.
